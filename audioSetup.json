@@ -74,6 +74,25 @@
             ]
         },
         {
+            "channelId":"8",
+            "setup":[
+                {
+                    "name":"Samba",
+                    "group":0,
+                    "audio":false,
+                    "audioBrightness":0,
+                    "list":[{"i": "2","v": "15"},{"i": "3","v": "26"},{"i": "4","v": "9.81"}]
+                },
+                {
+                    "name":"Easy",
+                    "group":0,
+                    "audio":false,
+                    "audioBrightness":0,
+                    "list":[{"i":"2","v":"3"},{"i":"3","v":"3"},{"i":"4","v":"9.81"}]
+                }
+            ]
+        },
+        {
             "channelId":2,
             "setup":[
                 {
