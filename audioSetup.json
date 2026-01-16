@@ -256,12 +256,7 @@
           "v": "30"
         }
       ]
-    }
-  ]
-},
-{
-  "channelId": 23,
-  "setup": [
+    },
     {
       "name": "right",
       "group": 0,
